@@ -1,0 +1,9 @@
+{
+    "Consequence options:": "timeout, kick, and ban. If no value is set, or if the set value isn't valid, it defaults to timeout.",
+    "consequences": "timeout",
+    "timeout rules": "Larger timeout durations supersede smaller ones timeoutTimeInSeconds basically gets ignored if timeoutTimeInMinutes gets set to a higher value.",
+    "timeoutTimeInSeconds": 60,
+    "timeoutTimeInMinutes": 0,
+    "timeoutTimeInHours": 0,
+    "banNumberOfDays": 0
+}
